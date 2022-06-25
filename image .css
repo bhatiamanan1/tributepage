@@ -1,0 +1,46 @@
+#image {
+    width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+#title {
+  text-align:center
+}
+
+h3 {
+  text-align:center
+}
+
+ul {
+  font-size:200%;
+  line-height:40px;
+}
+
+#img-caption {
+  text-align:center;
+  font-size:140%;
+}
+
+#tribute-info {
+  font-size:10px;
+}
+
+.context {
+  text-align:center;
+  font-size:40px;
+}
+
+li {
+  word-spacing:0.15em;
+}
+
+ol {
+  font-size:19px;
+}
+
+p {
+  text-align:center;
+  font-size:2.5em;
+}
